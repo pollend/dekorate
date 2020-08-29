@@ -16,5 +16,6 @@
     <module>spring-boot</module>
     <module>thorntail</module>
     <module>nodejs</module>
+    <module>micronaut</module>
   </modules>
 </project>
